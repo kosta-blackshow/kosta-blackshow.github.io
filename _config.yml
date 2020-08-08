@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name             : "Kosta Chernyshov"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar.jpg"
   bio              : "Bioinformatics Portfolio"
-  location         : "Moscow"
+  location         : "Moscow, Russia"
   email            :
   links:
     - label: "Email"
